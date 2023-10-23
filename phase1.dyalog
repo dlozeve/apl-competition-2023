@@ -1,0 +1,2 @@
+ EliminationSort←{(⍵=⌈\⍵)/⍵}
+ Rational←(÷\(1∧⊢),⊢)
